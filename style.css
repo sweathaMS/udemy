@@ -107,7 +107,7 @@ body {
 }
 .sale-img__offers{
     position: absolute;
-    width:35%;
+    width:25%;
     border: solid black 2px;
     padding:2%;
     background-color: white;
@@ -219,8 +219,6 @@ body {
      .navbar__s2,.navbar__s3{
         display: none;
      }
-
-
 .nav__s4{
    display: block;
 }
