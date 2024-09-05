@@ -222,10 +222,7 @@ body {
 .nav__s4{
    display: block;
 }
-.sale-img__offers{
-    position: absolute;
-    top:8%;
-    width: 35%;
-    left:3%
+.sale-img__offers p{
+   display: none;
 }
 }
