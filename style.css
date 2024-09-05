@@ -202,6 +202,7 @@ body {
 .footer__one p{
     margin-top: 20px;
 }
+/* Media queries */
 @media screen and (max-width:800px) {
     body{
         font-size: 10px;
@@ -220,5 +221,11 @@ body {
      }
 .nav__s4{
    display: block;
+}
+.sale-img__offers{
+    position: absolute;
+    top:8%;
+    width: 35%;
+    left:3%
 }
 }
